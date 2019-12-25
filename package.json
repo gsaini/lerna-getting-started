@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "publish": "lerna publish from-package",
+    "publish": "lerna publish from-package --access public",
     "start": "lerna run lerna-test"
   },
   "devDependencies": {

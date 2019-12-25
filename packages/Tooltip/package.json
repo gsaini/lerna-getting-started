@@ -14,7 +14,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lerna-test": "echo \"Hi! It's My App - 02\""
+    "lerna-test": "echo \"Hi! It's Tooltip\""
   },
   "eslintConfig": {
     "extends": "react-app"

@@ -2,11 +2,12 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "bootstrap": "lerna bootstrap",
+    "bootstrap": "npx lerna clean -y && npx lerna bootstrap --hoist",
     "publish": "lerna publish from-package",
     "start": "lerna run lerna-test"
   },
   "devDependencies": {
+    "eslint-plugin-import": "^2.19.1",
     "lerna": "^3.19.0"
   }
 }

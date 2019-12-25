@@ -1,5 +1,5 @@
 {
-  "name": "my-app-01",
+  "name": "@gsaini/tooltip",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lerna-test": "echo \"Hi! It's My App - 01\""
+    "lerna-test": "echo \"Hi! It's My App - 02\""
   },
   "eslintConfig": {
     "extends": "react-app"

@@ -1,0 +1,17 @@
+{
+  "name": "my-app-03",
+  "version": "1.0.0",
+  "description": "Getting started - Lerna",
+  "main": "index.js",
+  "scripts": {
+    "lerna-test": "echo \"Hi! It's My App - 03\""
+  },
+  "keywords": [
+    "lerna"
+  ],
+  "author": "Gopal Saini",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.4"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "my-app-03",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Getting started - Lerna",
   "main": "index.js",
   "scripts": {
